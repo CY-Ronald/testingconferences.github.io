@@ -146,6 +146,12 @@
   dates: "October 17, 2024"
   url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2024-melbourne
   status: Registration is Open
+
+- name: CypressConf 2024
+  location: Online
+  dates: "October 22-23, 2024"
+  url: https://bit.ly/3xUnPDn
+  status: Registration is Open
   
 - name: Workshop on Performance and Reliability - Latinoamerica (WOPR Latam) #2
   location: Medellín, Colombia
